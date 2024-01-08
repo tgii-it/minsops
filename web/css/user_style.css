@@ -1,0 +1,75 @@
+.navbar{
+    background-color: #135B57;
+    padding: 20px 10px;
+    width: 100%;
+}
+
+.logout_btn{
+background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: black; 
+}
+
+.after_nav{
+    padding: 10px 15px;
+}
+
+.logo{
+   text-align: center;
+}
+  
+
+
+.line{
+    line-height: 0.2;
+}
+
+.icon
+{
+    height: 20px;
+    width: 10px;
+}
+
+.home_btn{
+    width: 100%;
+    padding: 12px 15px;
+    background-color: #0DC7BB;
+    border: none;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    .TGII{
+        font-family:sans-serif;
+        word-wrap: break-word;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    }
+
+    @media screen and (min-width: 601px) {
+        div.TGII {
+          font-size: 80px;
+        }
+      }
+      
+      @media screen and (max-width: 600px) {
+        div.TGII {
+          font-size: 30px;
+        }
+    }
+    @media screen and (min-width: 601px) {
+        div.after_nav {
+          font-size: 80px;
+        }
+      }
+      

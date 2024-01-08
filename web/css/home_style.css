@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #135B57;
+    padding: 18px 10px;
+}
+
+.back_btn{
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: white;  
+   
+}
+.logout_btn{
+    background-color: Transparent;
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;
+        outline:none;
+        color: black; 
+    }
+
+.after_nav{
+    padding: 10px 15px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+  .row{
+      padding: 5px 10px;
+  }
+
+  .column {
+    float: left;
+    padding: 10px;
+}
+
+.left, .right {
+  width: 20%;
+}
+
+.middle {
+  width: 60%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p{
+    line-height: 0.2cm;
+}
+
+.buttons_home{
+ 
+    
+}
+
+.home_btns{
+    padding: 10px 10px;
+    width: 100%;
+    background-color: #0DC7BB;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    }
+

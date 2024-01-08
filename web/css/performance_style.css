@@ -1,0 +1,32 @@
+.back_btn{
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: white;  
+}
+
+.navbar{
+    background-color: #135B57;
+    padding: 20px 10px;
+    width: 100%;
+}
+
+.per_btns{
+    width: 40%;
+    color: white;
+    background-color: #0DC7BB;
+    border: none;
+    padding: 25px 25px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}

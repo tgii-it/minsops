@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #135B57;
+    padding: 20px 10px;
+    width: 100%;
+}
+
+.back_btn{
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: white;  
+}
+
+.process_btns{
+    width: 90%;
+    color: white;
+    background-color: #0DC7BB;
+    border: none;
+    padding: 25px 25px;
+    border-radius: 5px;
+}

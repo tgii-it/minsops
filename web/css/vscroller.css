@@ -1,0 +1,154 @@
+.news-wrapper
+{
+    margin-top: 2px;
+}
+.news-wrapper .news-contents-wrapper
+{
+    width: 23em;
+    margin: auto;
+    height: 44em;
+}
+.news-wrapper .news-contents
+{
+    overflow: hidden;
+    position: relative;
+    z-index: 1.5em;
+    height: 44em;
+    background-color: white;
+}
+.news-wrapper .news
+{
+    width: 95%;
+    height: 11em;
+    color: #6a6a6a;
+    position: absolute;
+    z-index: 1.5em;
+    border-bottom: 1px dashed #6a6a6a;
+}
+.news-wrapper .news-header
+{
+    padding-top: 0px;
+    padding-left: 0px;
+}
+h1
+{
+    color: White;
+    font-size: 14px;
+}
+.clear
+{
+    clear: both;
+}
+.circle-outer
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 39px;
+    -moz-border-radius: 39px;
+    -webkit-border-radius: 39px;
+    text-align: center;
+    vertical-align: middle;
+    border: solid 2px #40474F;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #40474F;
+}
+.circle
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: bold;
+}
+.circle.red
+{
+    color: #811919;
+    background: -webkit-gradient(linear, left top, left bottom, from(#E95F5F), to(#C64444));
+    background-image: -moz-linear-gradient(#E95F5F, #C64444);
+    background-image: -webkit-linear-gradient(#E95F5F, #C64444);
+    background-image: -o-linear-gradient(#E95F5F, #C64444);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#E95F5F, endColorstr=#C64444);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#E95F5F, endColorstr=#C64444)";
+}
+.circle.yellow
+{
+    color: #956537;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FED86D), to(#FFBD4E));
+    background-image: -moz-linear-gradient(#FED86D, #FFBD4E);
+    background-image: -webkit-linear-gradient(#FED86D, #FFBD4E);
+    background-image: -o-linear-gradient(#FED86D, #FFBD4E);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#FED86D, endColorstr=#FFBD4E);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#FED86D, endColorstr=#FFBD4E)";
+}
+.circle.green
+{
+    color: #566F38;
+    background: -webkit-gradient(linear, left top, left bottom, from(#C4D8A6), to(#C4D8A6));
+    background-image: -moz-linear-gradient(#C4D8A6, #C4D8A6);
+    background-image: -webkit-linear-gradient(#C4D8A6, #C4D8A6);
+    background-image: -o-linear-gradient(#C4D8A6, #C4D8A6);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#C4D8A6, endColorstr=#C4D8A6);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#C4D8A6, endColorstr=#C4D8A6)";
+}
+.circle.blue
+{
+    color: #2E5E6C;
+    background: -webkit-gradient(linear, left top, left bottom, from(#A3CCD8), to(#5E9EB7));
+    background-image: -moz-linear-gradient(#A3CCD8, #5E9EB7);
+    background-image: -webkit-linear-gradient(#A3CCD8, #5E9EB7);
+    background-image: -o-linear-gradient(#A3CCD8, #5E9EB7);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#A3CCD8, endColorstr=#5E9EB7);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#A3CCD8, endColorstr=#5E9EB7)";
+}
+
+.history
+{
+    padding-top: 14px;
+    float: left;
+    width: 7em;
+    padding-left: 10px;
+}
+.description
+{
+    float: left;
+    width: 12em;
+    padding: 2px;
+}
+.description .detail
+{
+    font-size: 12px;
+    overflow: hidden;
+    color:navy;
+}
+.elipses, .day, .month
+{
+    display: block;
+    padding-top: 1px;
+}
+.day, .month
+{
+    padding-top: 8px;
+}
+h1 a, h1 a:active, h1 a:visited
+{
+    text-decoration: none;
+    color:White;
+}
+h1 a:hover
+{
+    text-decoration: underline;
+    color:White;
+}
+
+@media (max-width: 767px) {
+    .news-wrapper > li > a {
+        color: #ecf0f1;
+    }
+}

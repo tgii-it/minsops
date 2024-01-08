@@ -1,0 +1,3890 @@
+[
+    {
+        "camp": "AALO",
+        "parent_id": "13"
+    },
+    {
+        "camp": "ACHAMPET",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ADILABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ADONI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ADOOR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "AGARTALA",
+        "parent_id": "12"
+    },
+    {
+        "camp": "AGRA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "AHMEDABAD CENTRAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AHMEDABAD MANINAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AHMEDABAD WEST",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AHMEDNAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AHWA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AIROLI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AIZAWL EAST",
+        "parent_id": "12"
+    },
+    {
+        "camp": "AIZAWL NORTH",
+        "parent_id": "12"
+    },
+    {
+        "camp": "AIZAWL SOUTH",
+        "parent_id": "12"
+    },
+    {
+        "camp": "AIZAWL WEST",
+        "parent_id": "12"
+    },
+    {
+        "camp": "AJMER",
+        "parent_id": "8"
+    },
+    {
+        "camp": "AKOLA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ALAIR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ALAKODE",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ALIBAUG",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ALIGARH",
+        "parent_id": "9"
+    },
+    {
+        "camp": "ALIPURDUAR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "ALIRAJPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "ALLAHABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "ALLEPPEY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ALMORA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "ALUVA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ALWAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ALWAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "AMALAPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "AMBALA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "AMBASAMUDRAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "AMBERNATH",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AMBIKAPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "AMBUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "AMLAI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "AMRAVATI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AMRITSAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "ANAKAPALLE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ANAND",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ANANTAPUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ANCHAL",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ANDHERI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ANGAMALI",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ANGUL",
+        "parent_id": "11"
+    },
+    {
+        "camp": "ANKLESHWAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ANNI",
+        "parent_id": "14"
+    },
+    {
+        "camp": "ARAKKONAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ARAKU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ARARIA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "ARCOT",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ARIYALUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ARMOOR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ARRAH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "ARUMUGANERI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ARUPPUKOTTAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ARYANAD",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ASANSOL",
+        "parent_id": "11"
+    },
+    {
+        "camp": "ATHIKAYAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ATHMAKUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ATMAKUR KNL",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ATTUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "AURANGABAD",
+        "parent_id": "7"
+    },
+    {
+        "camp": "AVADI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "AYINKAMAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "AYUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "BADAUN",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BADLAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BADVEL",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BAIKUNTHPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BAILADILA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BAKALIA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "BALAGHAT",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BALARAMAPURAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "BALASORE",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BALIGUDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BALLARSHA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BALLIA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BANDA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BANGALORE BOMMANAHALLI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE CENTRAL",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE CHANDAPURA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE ELECTRONIC CITY",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE HOSA ROAD",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE KORAMANGALA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE NORTH",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE NORTH EAST",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE PEENYA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE RAJAJI NAGAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE RT NAGAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE SOUTH",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE SOUTH EAST",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE WHITEFIELD",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE YELAHANKA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANGALORE-RR NAGAR AND KENGERI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BANSWARA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BAPATLA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BARABANKI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BARAMATI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BARAN",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BAREILLEY",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BARGARH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BARH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BARHARWA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BARMER",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BARNALA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BARODA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BARWANI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BATALA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BATHINDA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BEAWAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BEGUSARAI",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BELGAUM",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BELLARY",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BENAULIM",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BERHAMPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BETTIAH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BETUL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHADOHI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BHADRACHALAM",
+        "parent_id": "5"
+    },
+    {
+        "camp": "BHADRAK",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BHADRAVATI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BHAGALPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BHANDARA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BHARATPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BHARUCH",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BHATAPARA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHAVANI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "BHAVNAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BHAWANIPATNA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BHEL HYDERABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "BHILAI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHILWARA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BHIMAVARAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BHIMUNIPATNAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BHIND",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHIRAKHERI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BHOPAL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHOPAL - BHEL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BHUBANESHWAR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BHUJ",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BIDAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BIJAPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BIJAPUR K",
+        "parent_id": "3"
+    },
+    {
+        "camp": "BIJNOR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "BIKANER",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BILASPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BINA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BIRAMITRAPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BISHNUPUR",
+        "parent_id": "13"
+    },
+    {
+        "camp": "BISHRAMPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "BISHWANATH",
+        "parent_id": "13"
+    },
+    {
+        "camp": "BOBBILI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BODHAN",
+        "parent_id": "5"
+    },
+    {
+        "camp": "BOKARO STEEL CITY",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BOKARO THERMAL",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BOLANGIR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BOMDILA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "BONGAIGAON",
+        "parent_id": "12"
+    },
+    {
+        "camp": "BORIO-SAHEBGANJ",
+        "parent_id": "10"
+    },
+    {
+        "camp": "BORIVILI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BORRA CAVES",
+        "parent_id": "4"
+    },
+    {
+        "camp": "BOWENPALLY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "BRAJRAJNAGAR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "BULDHANA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "BUNDI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "BUXAR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "CALCUTTA CENTRAL",
+        "parent_id": "11"
+    },
+    {
+        "camp": "CALCUTTA NORTH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "CALCUTTA SOUTH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "CALICUT",
+        "parent_id": "2"
+    },
+    {
+        "camp": "CHAIBASA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "CHAKRADHARPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "CHAMARAJNAGAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "CHAMBA",
+        "parent_id": "14"
+    },
+    {
+        "camp": "CHAMPHAI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "CHANDEL",
+        "parent_id": "13"
+    },
+    {
+        "camp": "CHANDIGARH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "CHANDRAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "CHANDWA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "CHANGANACHERRY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "CHATRA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "CHEMBUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "CHENGALPATTU",
+        "parent_id": "1"
+    },
+    {
+        "camp": "CHENGANNUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "CHENNAI INFO",
+        "parent_id": "1"
+    },
+    {
+        "camp": "CHERIAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "CHHATARPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "CHHINDWARA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "CHICKMAGALUR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "CHIDAMBARAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "CHILAKALURIPETA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "CHINTAPALLI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "CHIRALA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "CHIRGAON",
+        "parent_id": "9"
+    },
+    {
+        "camp": "CHITRADURGA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "CHITRANJAN",
+        "parent_id": "11"
+    },
+    {
+        "camp": "CHITTOOR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "CHITTORGARH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "CHUMUKEDIMA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "CHUNGATHARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "CHURACHANDPUR",
+        "parent_id": "13"
+    },
+    {
+        "camp": "CHURACHANDPUR NORTH",
+        "parent_id": "13"
+    },
+    {
+        "camp": "COCHIN CENTRAL",
+        "parent_id": "2"
+    },
+    {
+        "camp": "COCHIN INFO PARK",
+        "parent_id": "2"
+    },
+    {
+        "camp": "COCHIN ISLANDS",
+        "parent_id": "2"
+    },
+    {
+        "camp": "COCHIN VYTILLA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "COIMBATORE EAST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "COIMBATORE NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "COIMBATORE WEST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "COONOOR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "CUDDALORE",
+        "parent_id": "1"
+    },
+    {
+        "camp": "CUDDAPAH",
+        "parent_id": "4"
+    },
+    {
+        "camp": "CUTTACK",
+        "parent_id": "11"
+    },
+    {
+        "camp": "DADAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DAHOD",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DALLI RAJHARA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "DALTANGANJ",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DAMOH",
+        "parent_id": "6"
+    },
+    {
+        "camp": "DAPORIJO",
+        "parent_id": "13"
+    },
+    {
+        "camp": "DARBHANGA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DARJEELING",
+        "parent_id": "11"
+    },
+    {
+        "camp": "DAUND",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DAVANGERE",
+        "parent_id": "3"
+    },
+    {
+        "camp": "DEHRADUN",
+        "parent_id": "9"
+    },
+    {
+        "camp": "DEHRI-ON-SONE",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DEHU-TALEGAON",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DELHI CENTRAL",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI DWARAKA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI EAST",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI NORTH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI NORTH EAST",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI NORTH WEST",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI PUSHP VIHAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI ROHINI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI SARITA VIHAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI SOUTH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI SOUTH WEST",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI VASANT KUNJ",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DELHI WEST",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DEOGHAR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DERGANG",
+        "parent_id": "12"
+    },
+    {
+        "camp": "DEVARAKONDA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "DEWAS",
+        "parent_id": "6"
+    },
+    {
+        "camp": "DHALAI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "DHAMTARI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "DHANBAD",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DHARAMSHALA",
+        "parent_id": "14"
+    },
+    {
+        "camp": "DHARIWAL",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DHARMAPURI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "DHARMAVARAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "DHARWAD",
+        "parent_id": "3"
+    },
+    {
+        "camp": "DHULE",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DIBRUGARH",
+        "parent_id": "13"
+    },
+    {
+        "camp": "DIMAPUR EAST",
+        "parent_id": "13"
+    },
+    {
+        "camp": "DIMAPUR WEST",
+        "parent_id": "13"
+    },
+    {
+        "camp": "DINDIGUL",
+        "parent_id": "1"
+    },
+    {
+        "camp": "DIPHU",
+        "parent_id": "13"
+    },
+    {
+        "camp": "DOMBIVILI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "DONGARGARH",
+        "parent_id": "6"
+    },
+    {
+        "camp": "DORNAKAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "DUMKA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "DUNGARPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "DURGAPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "ECIL HYDERABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "EDAPALLY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ELURU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ELURU EAST",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ERAVIPEROOR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ERODE",
+        "parent_id": "1"
+    },
+    {
+        "camp": "FAIZABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "FARIDABAD",
+        "parent_id": "8"
+    },
+    {
+        "camp": "FARRUKHABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "FATEHGARH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "FATEHPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "FEROZPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "FORT COCHIN",
+        "parent_id": "2"
+    },
+    {
+        "camp": "G.UDAYAGIRI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "GADAG-BETGARI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GADCHANDUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GADWAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "GAJWEL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "GANDHIDHAM",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GANDHINAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GANGTOK",
+        "parent_id": "11"
+    },
+    {
+        "camp": "GARHWA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GAYA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GAYZING",
+        "parent_id": "11"
+    },
+    {
+        "camp": "GHATKOPAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GHAZIABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "GHAZIPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "GHUGUS",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GIDDALUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GIRIDIH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GOA MAPUSA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOA MARGAO",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOA PANJIM",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOA PONDA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOA VASCO",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOALPARA",
+        "parent_id": "12"
+    },
+    {
+        "camp": "GOBICHETTIPALAYAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "GODDA MAHAGAMA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GODHRA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GOKAK",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GOKAVARAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GOLAGHAT",
+        "parent_id": "13"
+    },
+    {
+        "camp": "GOMOH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GONDA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "GONDIA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GOOTY",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GOPALPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "GORAKHPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "GOREGAON",
+        "parent_id": "7"
+    },
+    {
+        "camp": "GOSAIGAON",
+        "parent_id": "12"
+    },
+    {
+        "camp": "GREATER NOIDA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "GUDALUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "GUDIWADA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GUDIYATHAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "GUDUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GULBARGA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GUMLA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "GUNA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "GUNDLUPET",
+        "parent_id": "3"
+    },
+    {
+        "camp": "GUNTAKAL",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GUNTUR NORTH",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GUNTUR SOUTH",
+        "parent_id": "4"
+    },
+    {
+        "camp": "GURDASPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "GURUGRAM",
+        "parent_id": "8"
+    },
+    {
+        "camp": "GUWAHATI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "GWALIOR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "HAFLONG",
+        "parent_id": "12"
+    },
+    {
+        "camp": "HALDWANI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "HAMIRPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "HANAMAKONDA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "HARDA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "HARIDWAR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "HARUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "HASSAN",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HAVERI - RANEBENNUR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HAZARIBAGH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "HAZIPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "HERBERTPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "HINDUPUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "HISAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "HITECH CITY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "HNATHIAL",
+        "parent_id": "12"
+    },
+    {
+        "camp": "HOSHANGABAD",
+        "parent_id": "6"
+    },
+    {
+        "camp": "HOSIARPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "HOSPET",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HOSUR NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "HOSUR SOUTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "HUBLI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HUBLI CENTRAL",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HUNSUR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "HUZUR NAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "HYDERABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "IBRAHIMPATNAM",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ICHALKARANJI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "ICHAPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "IDAIYANGUDI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "IMPHAL EAST",
+        "parent_id": "13"
+    },
+    {
+        "camp": "IMPHAL WEST",
+        "parent_id": "13"
+    },
+    {
+        "camp": "INCHIVILA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "INDORE",
+        "parent_id": "6"
+    },
+    {
+        "camp": "INDORE CENTRAL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "INKOLLU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ITANAGAR CITY",
+        "parent_id": "13"
+    },
+    {
+        "camp": "ITARSI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JABALPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JADCHARLA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "JAGDALPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JAGDEESHPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JAGGAIAHPET",
+        "parent_id": "4"
+    },
+    {
+        "camp": "JAGTIAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "JAHANABAD",
+        "parent_id": "10"
+    },
+    {
+        "camp": "JAIGAON",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JAIPUR CENTRAL",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JAIPUR NORTH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JAIPUR SOUTH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JAISALMER",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JALANDHAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JALANDHAR SOUTH",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JALGAON-BHUSAVAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "JALNA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "JALORE",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JALPAIGURI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JALUKIE",
+        "parent_id": "13"
+    },
+    {
+        "camp": "JAMMU",
+        "parent_id": "14"
+    },
+    {
+        "camp": "JAMNAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "JAMPUI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "JAMSHEDPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "JAMTARA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "JAMUI",
+        "parent_id": "10"
+    },
+    {
+        "camp": "JANGAON",
+        "parent_id": "5"
+    },
+    {
+        "camp": "JANGAREDDIGUDEM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "JANJGIR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JASHPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JATNI KHURDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JAUNPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "JEEDIMETLA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "JEYPORE",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JHALAWAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JHANSI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "JHARSUGUDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JIRIBAM",
+        "parent_id": "13"
+    },
+    {
+        "camp": "JOBAT",
+        "parent_id": "6"
+    },
+    {
+        "camp": "JODHPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "JORETHANG",
+        "parent_id": "11"
+    },
+    {
+        "camp": "JORHAT",
+        "parent_id": "13"
+    },
+    {
+        "camp": "JOWAI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "JYOTHINAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KADIRI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KAGAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KAILASAPURAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KAIMUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KAITHAL",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KAKINADA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KALAMASSERY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KALIMPONG",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KALLURU",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KALPAKKAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KALPETTA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KALWAKURTHY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KALYAN",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KALYANDURG",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KAMAREDDY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KANCHIPURAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KANDUKUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KANGPOKPI",
+        "parent_id": "13"
+    },
+    {
+        "camp": "KANIGIRI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KANKE",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KANKER",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KANNUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KANPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "KANSABEL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KAPURTHALA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KARAD",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KARAIKUDI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KARAULI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KARIMNAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KARIMNAGAR NORTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KARTHIKAPALLY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KARUKACHAL",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KARUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KARWAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "KASARAGOD",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KASHIPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "KATIHAR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KATNI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KATRA",
+        "parent_id": "14"
+    },
+    {
+        "camp": "KATTAKADA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KATTAPANA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KAVALI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KAWARDHA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KAZIPET",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KHADAKWASLA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KHAGARIA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KHALILABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "KHAMMAM NORTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KHAMMAM SOUTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KHANDWA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KHANNA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KHARAGPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KHARAGPUR CENTRAL",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KHARAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KHARGHAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KHATIMA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "KHAWZAWL",
+        "parent_id": "12"
+    },
+    {
+        "camp": "KHLIEHRIAT",
+        "parent_id": "12"
+    },
+    {
+        "camp": "KHUMULWNG",
+        "parent_id": "12"
+    },
+    {
+        "camp": "KHUNTI MURHU",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KIPHIRE",
+        "parent_id": "13"
+    },
+    {
+        "camp": "KODAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KODAIKANAL",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KODARMA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "KODOLI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KODUKULANJI",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KOHIMA NORTH",
+        "parent_id": "13"
+    },
+    {
+        "camp": "KOHIMA SOUTH",
+        "parent_id": "13"
+    },
+    {
+        "camp": "KOILKUNTLA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KOKRAJHAR",
+        "parent_id": "12"
+    },
+    {
+        "camp": "KOLAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "KOLAR GOLD FIELDS",
+        "parent_id": "3"
+    },
+    {
+        "camp": "KOLASIB",
+        "parent_id": "12"
+    },
+    {
+        "camp": "KOLENCHERRY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KOLHAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "KOLLEGAL",
+        "parent_id": "3"
+    },
+    {
+        "camp": "KONDAGAON",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KONNI",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KORAPUT",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KORBA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "KORUTLA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KOSA GUMUDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KOTA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "KOTHAGUDEM",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KOTHAMANGALAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KOTPAD",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KOTTARAKARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KOTTAYAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KOVILPATTI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KOVVURU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KOZHENCHERRY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KRISHNAGIRI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KUKATPALLY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "KULATHUPUZHA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KUMALI",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KUMBAKONAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "KUMBANAD",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KUNDARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KUNNAMKULAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "KURADA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KURNOOL",
+        "parent_id": "4"
+    },
+    {
+        "camp": "KURSEONG",
+        "parent_id": "11"
+    },
+    {
+        "camp": "KURTAMGARH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "L.B. NAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "LAKHIMPUR",
+        "parent_id": "13"
+    },
+    {
+        "camp": "LAKHIMPUR KHERI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "LAKHIPUR",
+        "parent_id": "12"
+    },
+    {
+        "camp": "LAKHNADON",
+        "parent_id": "6"
+    },
+    {
+        "camp": "LAKLA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "LALITPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "LATEHAR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "LATUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "LAWNGTLAI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "LOHARDAGA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "LONAVALA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "LONGDING",
+        "parent_id": "13"
+    },
+    {
+        "camp": "LONGLENG",
+        "parent_id": "13"
+    },
+    {
+        "camp": "LUCKNOW",
+        "parent_id": "9"
+    },
+    {
+        "camp": "LUCKNOW SOUTH",
+        "parent_id": "9"
+    },
+    {
+        "camp": "LUCKNOW TRANSGOMTI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "LUDHIANA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "LUMDING",
+        "parent_id": "13"
+    },
+    {
+        "camp": "LUNGLEI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "MACHERLA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MACHILIPATNAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MADANAPALLE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MADEKERI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "MADHEPURA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MADHIRA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MADHUPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MADHURANTHAGAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADHYAMGRAM",
+        "parent_id": "11"
+    },
+    {
+        "camp": "MADRAS CENTRAL",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADRAS NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADRAS SOUTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADRAS WEST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADURAI EAST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADURAI NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MADURAI SOUTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MAHASAMUND",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MAHBUBABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MAHBUBNAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MALAJKHAND",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MALAYINKEEZHU",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MALBAZAR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "MALLAPALLY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MANALI",
+        "parent_id": "14"
+    },
+    {
+        "camp": "MANANTHAVADY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MANAPARAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MANCHERIAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MANDLA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MANDYA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "MANENDRAGARH",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MANGALAGIRI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MANGALORE",
+        "parent_id": "3"
+    },
+    {
+        "camp": "MANMAD",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MANNARGUDI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MANNUTHY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MANOHARPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MANTHANI",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MANUGURU",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MARKAPUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MARTHANDAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MARTUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "MATHURA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MATTAMPALLI",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MAU",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MAVELIKARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MAWKYRWAT",
+        "parent_id": "12"
+    },
+    {
+        "camp": "MAYILADUTHURAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MEDAK",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MEERPET",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MEERUT",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MEHDIPATNAM",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MEHSANA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "METPALLY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "METTUPALAYAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "METTUR DAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "MHOW",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MIAO",
+        "parent_id": "13"
+    },
+    {
+        "camp": "MIRA-BHAYANDER",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MIRAJ",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MIRYALAGUDA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "MIRZAPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MOGA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "MOHALI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "MOKOKCHUNG",
+        "parent_id": "13"
+    },
+    {
+        "camp": "MON",
+        "parent_id": "13"
+    },
+    {
+        "camp": "MORADABAD",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MOTIHARI",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MUDALGI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "MUL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MUMBAI BANDRA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MUMBAI CENTRAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "MUNGELI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "MUNGER JAMALPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MUNIGUDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "MUNNAR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MUSSOORIE",
+        "parent_id": "9"
+    },
+    {
+        "camp": "MUVATTUPUZHA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "MUZAFFARPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "MYSORE",
+        "parent_id": "3"
+    },
+    {
+        "camp": "NABARANGPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "NAGAPATTINAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAGARJUNASAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NAGARKURNOOL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NAGERCOIL EAST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAGERCOIL NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAGERCOIL SOUTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAGERCOIL WEST",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAGPUR AJANI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAGPUR KAMPTEE",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAGPUR MANKAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAGPUR WADI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAHARLAGUN",
+        "parent_id": "13"
+    },
+    {
+        "camp": "NAIDUPETA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NAIGAON",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAINI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "NAINITAL",
+        "parent_id": "9"
+    },
+    {
+        "camp": "NAKREKAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NALAGARH",
+        "parent_id": "14"
+    },
+    {
+        "camp": "NALANDA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "NALGONDA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NALGONDA SOUTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NALLASOPARA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAMAKKAL",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NAMCHI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "NAMKUM",
+        "parent_id": "10"
+    },
+    {
+        "camp": "NANDED",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NANDIGAMA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NANDURBAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NANDYAL",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NARASARAOPET",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NARAYANPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "NARSAPUR MEDAK",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NARSAPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NARSIPATNAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NASHIK",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAVAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NAWADA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "NAWAN SHAHR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "NAXALBARI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "NAZARETH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NEDUMANGADU",
+        "parent_id": "2"
+    },
+    {
+        "camp": "NEEMUCH",
+        "parent_id": "6"
+    },
+    {
+        "camp": "NELLIMOODU",
+        "parent_id": "2"
+    },
+    {
+        "camp": "NELLORE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NELYADI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "NERUL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NEW DELHI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "NEYATTINKARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "NEYVELI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "NIDADAVOLU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NIDUBROLU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "NIGDI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "NIRMAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NIULAND",
+        "parent_id": "13"
+    },
+    {
+        "camp": "NIZAMABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "NOIDA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "NONGPOH",
+        "parent_id": "12"
+    },
+    {
+        "camp": "NONGSTOIN",
+        "parent_id": "12"
+    },
+    {
+        "camp": "NORTH VANLAIPHAI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "NUZVID",
+        "parent_id": "4"
+    },
+    {
+        "camp": "ODDANCHATRAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "OLAVAKKOD",
+        "parent_id": "2"
+    },
+    {
+        "camp": "ONGOLE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PADERU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PADHAR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "PAKUR - HIRANPUR",
+        "parent_id": "10"
+    },
+    {
+        "camp": "PALAKONDA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PALAMPUR",
+        "parent_id": "14"
+    },
+    {
+        "camp": "PALGHAT",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PALI MARWAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "PALLEL",
+        "parent_id": "13"
+    },
+    {
+        "camp": "PALONCHA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "PANCHKULA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "PANDALAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PANIPAT",
+        "parent_id": "8"
+    },
+    {
+        "camp": "PANVEL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "PARALAKHEMUNDI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "PARAMAKUDI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PARASSALA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PARBHANI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "PARVATHIPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PASIGHAT",
+        "parent_id": "13"
+    },
+    {
+        "camp": "PATHALGAON",
+        "parent_id": "6"
+    },
+    {
+        "camp": "PATHANAMTHITTA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PATHANKOT",
+        "parent_id": "8"
+    },
+    {
+        "camp": "PATHAPATNAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PATIALA",
+        "parent_id": "8"
+    },
+    {
+        "camp": "PATNA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "PATNA WEST",
+        "parent_id": "10"
+    },
+    {
+        "camp": "PAURI GARWHAL",
+        "parent_id": "9"
+    },
+    {
+        "camp": "PAVATHIYANVILA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PAYANNUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PAYYAPADY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PEDDAPALLI",
+        "parent_id": "5"
+    },
+    {
+        "camp": "PENDRA ROAD",
+        "parent_id": "6"
+    },
+    {
+        "camp": "PENNAGARAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PERAMBALUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PEREN",
+        "parent_id": "13"
+    },
+    {
+        "camp": "PERUMBAVOOR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PFIITSERO",
+        "parent_id": "13"
+    },
+    {
+        "camp": "PHEK",
+        "parent_id": "13"
+    },
+    {
+        "camp": "PHULBANI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "PIDUGURALLA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PILER",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PILIBHIT",
+        "parent_id": "9"
+    },
+    {
+        "camp": "PIMPRI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "PIRAVAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PISKA NAGRI ITKI",
+        "parent_id": "10"
+    },
+    {
+        "camp": "PITHAPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PITHORAGARH",
+        "parent_id": "9"
+    },
+    {
+        "camp": "PODILI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "POLLACHI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PONDICHERRY",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PONKUNNAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "POONA CENTRAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "POONTHURA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PORBANDAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "PORT BLAIR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "POWAI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "PRODDATUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PUDUKOTTAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "PULIVENDLA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PUNALUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "PUNGANUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PURNIA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "PUTTUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "PUTTUR DK",
+        "parent_id": "3"
+    },
+    {
+        "camp": "QUILON",
+        "parent_id": "2"
+    },
+    {
+        "camp": "RAEBARELI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "RAHATA-RAHURI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "RAICHUR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "RAIGARH",
+        "parent_id": "6"
+    },
+    {
+        "camp": "RAIKIA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "RAIPUR",
+        "parent_id": "6"
+    },
+    {
+        "camp": "RAJAMUNDRY",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RAJAPALAYAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "RAJENDRA NAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "RAJGANGPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "RAJKOT",
+        "parent_id": "7"
+    },
+    {
+        "camp": "RAJNANDGAON",
+        "parent_id": "6"
+    },
+    {
+        "camp": "RAJSAMAND",
+        "parent_id": "8"
+    },
+    {
+        "camp": "RAMACHANDRAPURAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RAMANATHAPURAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "RAMAYAMPET",
+        "parent_id": "5"
+    },
+    {
+        "camp": "RAMESWARAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "RAMGARH-BARKHAKANA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "RAMPACHODAVARAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RAMPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "RANCHI",
+        "parent_id": "10"
+    },
+    {
+        "camp": "RANCHI SOUTH",
+        "parent_id": "10"
+    },
+    {
+        "camp": "RANGAPARA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "RANIPET",
+        "parent_id": "1"
+    },
+    {
+        "camp": "RANNI",
+        "parent_id": "2"
+    },
+    {
+        "camp": "RASIPURAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "RATLAM",
+        "parent_id": "6"
+    },
+    {
+        "camp": "RATNAGIRI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "RAVULAPALEM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RAXAUL",
+        "parent_id": "10"
+    },
+    {
+        "camp": "RAYACHOTI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RAYAGADA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "RAZOLE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RENUKOOT ANPARA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "REPALLE",
+        "parent_id": "4"
+    },
+    {
+        "camp": "RESUBELPARA",
+        "parent_id": "12"
+    },
+    {
+        "camp": "REWA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "ROING",
+        "parent_id": "13"
+    },
+    {
+        "camp": "ROORKEE",
+        "parent_id": "9"
+    },
+    {
+        "camp": "ROURKELA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "RUDRAPRAYAG",
+        "parent_id": "9"
+    },
+    {
+        "camp": "RUDRAPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "SABROOM",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SAGAR C",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SAGAR K",
+        "parent_id": "3"
+    },
+    {
+        "camp": "SAHARANPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "SAIDABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SALEM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SALUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SAMALKOT",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SAMBA",
+        "parent_id": "14"
+    },
+    {
+        "camp": "SAMBALPUR",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SAMSI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SANATHNAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SANGAMNER",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SANGAREDDY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SANGLI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SANGRUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SANKARANKOVIL",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SANKESHWAR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "SANTIR BAZAR",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SARNI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SATARA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SATHUPALLI",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SATHUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SATNA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SATTENAPALLI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SAWAI MADHOPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SECUNDERABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SENAPATI",
+        "parent_id": "13"
+    },
+    {
+        "camp": "SEONI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SERCHHIP",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SHADNAGAR",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SHAHDOL",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SHAHJAHANPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "SHAMIRPET",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SHAMSHABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SHILLONG EAST",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SHILLONG NORTH",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SHILLONG SOUTH",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SHIMLA",
+        "parent_id": "14"
+    },
+    {
+        "camp": "SHIMOGA",
+        "parent_id": "3"
+    },
+    {
+        "camp": "SHORNUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "SHREERAMPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SIAHA",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SIBSAGAR",
+        "parent_id": "13"
+    },
+    {
+        "camp": "SIDDIPETA",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SIKAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SILCHAR",
+        "parent_id": "12"
+    },
+    {
+        "camp": "SILIGURI",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SIMDEGA",
+        "parent_id": "10"
+    },
+    {
+        "camp": "SINDHUDURG",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SINGRAULI",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SINGTAM",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SIROHI",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SITAPUR (CHATTISGARH)",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SITAPUR (UTTAR PRADESH)",
+        "parent_id": "9"
+    },
+    {
+        "camp": "SIVAGANGAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SIVAKASI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SIWAN",
+        "parent_id": "10"
+    },
+    {
+        "camp": "SOLAPUR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SONARI",
+        "parent_id": "13"
+    },
+    {
+        "camp": "SONBHADRA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "SONEPAT",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SONGADH",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SRIGANGANAGAR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "SRIKAKULAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SRIKALAHASTI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SRINAGAR",
+        "parent_id": "14"
+    },
+    {
+        "camp": "SUKUMA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "SULLURUPET",
+        "parent_id": "4"
+    },
+    {
+        "camp": "SULTAN BATHERY",
+        "parent_id": "2"
+    },
+    {
+        "camp": "SUNABEDA",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SUNDARGARH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "SUNDERNAGAR",
+        "parent_id": "14"
+    },
+    {
+        "camp": "SURANDAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "SURAT",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SURENDRANAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "SURYAPET NORTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "SURYAPET SOUTH",
+        "parent_id": "5"
+    },
+    {
+        "camp": "TADEPALLEGUDEM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TADPATRI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TAMBARAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TAMENGLONG",
+        "parent_id": "13"
+    },
+    {
+        "camp": "TANAKPUR",
+        "parent_id": "9"
+    },
+    {
+        "camp": "TANUKU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TENALI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TENKASI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TEZPUR",
+        "parent_id": "13"
+    },
+    {
+        "camp": "TEZU",
+        "parent_id": "13"
+    },
+    {
+        "camp": "THANE",
+        "parent_id": "7"
+    },
+    {
+        "camp": "THANJAVUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "THENI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "THENZAWL",
+        "parent_id": "12"
+    },
+    {
+        "camp": "THIRUKOILUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "THIRUMALA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "THIRUVALLUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "THIRUVARUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "THUNGATHURTHY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "TILDA",
+        "parent_id": "6"
+    },
+    {
+        "camp": "TINDIVANAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TINSUKIA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "TIRUCHENDUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUCHENGODU",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUCHIRAPALLY",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUNELVELI NORTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUNELVELI SOUTH",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUPATHI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TIRUPATTUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUPUR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUVALLA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TIRUVANNAMALAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TIRUVURU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TITLAGARH",
+        "parent_id": "11"
+    },
+    {
+        "camp": "TONK",
+        "parent_id": "8"
+    },
+    {
+        "camp": "TRANQUEBAR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "TRICHUR",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRICHUR CENTRAL",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIPUNITHURA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM EAST",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM NORTH",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM SECRETARIAT",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM SOUTH",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM TECHNO",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TRIVANDRUM WEST",
+        "parent_id": "2"
+    },
+    {
+        "camp": "TSEMINYU",
+        "parent_id": "13"
+    },
+    {
+        "camp": "TUENSANG",
+        "parent_id": "13"
+    },
+    {
+        "camp": "TUMKUR",
+        "parent_id": "3"
+    },
+    {
+        "camp": "TUNI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "TURA",
+        "parent_id": "12"
+    },
+    {
+        "camp": "TUTICORIN",
+        "parent_id": "1"
+    },
+    {
+        "camp": "UDAIPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "UDAIPUR-T",
+        "parent_id": "12"
+    },
+    {
+        "camp": "UDALGURI",
+        "parent_id": "12"
+    },
+    {
+        "camp": "UDAYAGIRI",
+        "parent_id": "4"
+    },
+    {
+        "camp": "UDGIR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "UDHAMPUR",
+        "parent_id": "14"
+    },
+    {
+        "camp": "UDUMALPET",
+        "parent_id": "1"
+    },
+    {
+        "camp": "UDUPI",
+        "parent_id": "3"
+    },
+    {
+        "camp": "UJJAIN",
+        "parent_id": "6"
+    },
+    {
+        "camp": "UKHRUL",
+        "parent_id": "13"
+    },
+    {
+        "camp": "ULHAS NAGAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "UNNAO",
+        "parent_id": "9"
+    },
+    {
+        "camp": "UPPAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "URIACODE",
+        "parent_id": "2"
+    },
+    {
+        "camp": "UTHANGARAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "UTRAULA",
+        "parent_id": "9"
+    },
+    {
+        "camp": "VADALA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VADASERIKARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VALAKAM",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VALLIYOOR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "VALPARAI",
+        "parent_id": "1"
+    },
+    {
+        "camp": "VANASTHALIPURAM",
+        "parent_id": "5"
+    },
+    {
+        "camp": "VANNIYACODE",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VAPI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VARANASI",
+        "parent_id": "9"
+    },
+    {
+        "camp": "VASAI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VASHI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VATTAPPARA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VATTIYOORKAVU",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VELLARADA",
+        "parent_id": "2"
+    },
+    {
+        "camp": "VELLORE",
+        "parent_id": "1"
+    },
+    {
+        "camp": "VIJAYAWADA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VIJAYAWADA EAST",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VILLUPURAM",
+        "parent_id": "1"
+    },
+    {
+        "camp": "VINUKONDA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VIRAR",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VIRUDHNAGAR",
+        "parent_id": "1"
+    },
+    {
+        "camp": "VISHAKHAPATNAM NORTH",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VISHAKHAPATNAM SOUTH",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VISHRANTWADI",
+        "parent_id": "7"
+    },
+    {
+        "camp": "VISSANNAPETA",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VIZIANAGARAM",
+        "parent_id": "4"
+    },
+    {
+        "camp": "VUYYURU",
+        "parent_id": "4"
+    },
+    {
+        "camp": "WANAPARTHY",
+        "parent_id": "5"
+    },
+    {
+        "camp": "WANOWRIE",
+        "parent_id": "7"
+    },
+    {
+        "camp": "WARANGAL",
+        "parent_id": "5"
+    },
+    {
+        "camp": "WARDHA",
+        "parent_id": "7"
+    },
+    {
+        "camp": "WILLIAMNAGAR",
+        "parent_id": "12"
+    },
+    {
+        "camp": "WOKHA",
+        "parent_id": "13"
+    },
+    {
+        "camp": "YAVATMAL",
+        "parent_id": "7"
+    },
+    {
+        "camp": "YELLANDU",
+        "parent_id": "5"
+    },
+    {
+        "camp": "YEMMIGANUR",
+        "parent_id": "4"
+    },
+    {
+        "camp": "YERCAUD",
+        "parent_id": "1"
+    },
+    {
+        "camp": "ZAHEERABAD",
+        "parent_id": "5"
+    },
+    {
+        "camp": "ZIRAKPUR",
+        "parent_id": "8"
+    },
+    {
+        "camp": "ZIRO",
+        "parent_id": "13"
+    },
+    {
+        "camp": "ZUNHEBOTO",
+        "parent_id": "13"
+    }
+]
